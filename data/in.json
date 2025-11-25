@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "ST_NM": "Odisha" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [84.791, 21.897],
+            [85.098, 20.951],
+            [86.418, 20.707],
+            [87.53, 21.146],
+            [86.933, 21.913],
+            [85.791, 22.18],
+            [84.791, 21.897]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ST_NM": "Uttar Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.946, 26.846],
+            [81.5, 27.5],
+            [82.0, 27.0],
+            [82.5, 26.5],
+            [81.8, 26.2],
+            [80.946, 26.846]
+          ]
+        ]
+      }
+    }
+    // 👆 isi tarah baaki 28 states + 8 UTs add karni hongi
+  ]
+}
